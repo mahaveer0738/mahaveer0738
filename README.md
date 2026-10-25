@@ -1,18 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mahaveer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%E2%80%A2%20Software%20Development%20%E2%80%A2%20Problem%20Solving&descAlignY=60&descSize=18" width="100%" alt="header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Mahaveer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Systems%20%E2%80%A2%20Software%20Development%20%E2%80%A2%20Problem%20Solving&descAlignY=72&descSize=18" width="100%" alt="header" />
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+agentic+AI+systems+with+LangGraph+%26+Gemini;RAG+pipelines+%7C+Multi-agent+orchestration;Python+developer+%40+NIT+Surat;Turning+ideas+into+working+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=30&lines=Building+agentic+AI+systems+with+LangGraph+%26+Gemini;RAG+pipelines+%7C+Multi-agent+orchestration;Python+developer+%40+NIT+Surat;Turning+ideas+into+working+products" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahaveer0738&label=Profile%20Views&color=0e75b6&style=flat-square)
 [![Email](https://img.shields.io/badge/Email-mahaveerregar738%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahaveerregar738@gmail.com)
-<!-- Add your LinkedIn below:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahaveer-regar-646702380/)
 
 </div>
 
@@ -79,7 +76,7 @@ I'm a student at **NIT Surat** who enjoys building practical, production-style A
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing AI, collaborating on projects, or talking about internship opportunities. Feel free to reach out at **mahaveerregar738@gmail.com**.
+I'm always open to discussing AI, collaborating on projects, or talking about internship opportunities. Feel free to reach out at **mahaveerregar738@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/mahaveer-regar-646702380/).
 
 <div align="center">
 
